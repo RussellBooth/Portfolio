@@ -3,7 +3,7 @@
 This project is ongoing in development and is a working portfolio as I work through the UC Davis Coding Bootcamp. It is used to track, and keep updated with the work, projects, and development of my progress in coding as I move through the bootcamp program. 
 
 
-## Russel Booth's working Portfolio
+## Russell Booth's working Portfolio
 
 
    ![ScreenShot of Main Portfolio Page](./Assets/CSS/Images/README_03.png)
