@@ -3,10 +3,7 @@
 This project is ongoing in development and is a working portfolio as I work through the UC Davis Coding Bootcamp. It is used to track, and keep updated with the work, projects, and development of my progress in coding as I move through the bootcamp program. 
 
 
-## Product Name Screen Shot
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo_name, twitter_handle, linkedin_username, email_client, email, project_title, project_description
-
+## Russel Booth's working Portfolio
 
   
     ![ScreenShot of Main Portfolio Page](Assets/Images/README_03.png)
