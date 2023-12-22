@@ -7,6 +7,12 @@ This project is ongoing in development and is a working portfolio as I work thro
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo_name, twitter_handle, linkedin_username, email_client, email, project_title, project_description
 
+
+    ```md
+    ![ScreenShot of Main Portfolio Page](assets/Images/README_03.png)
+    ```
+
+
 ## Built With
 
     HTML
@@ -22,6 +28,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 The Usage of this project is for any prospective employer to track the skills I have, and am currently developing in order to assess readiness and capability within their prospective employment opportunities.
 In order to Navigate through the works I have listed, feel free to click any of the sections under Work section and it will navigate you to the appropriate page wherein to view my past projects.
 
+
+    ```md
+    ![Prework-Study-Guide](assets/Images/README_01.png)
+    ```
+    
+    ```md
+    ![Code-Refactoring](assets/Images/README_02.png)
+    ```
 
 ## License
 
