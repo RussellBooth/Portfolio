@@ -9,7 +9,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
     ```md
-    ![ScreenShot of Main Portfolio Page](assets/Images/README_03.png)
+    ![ScreenShot of Main Portfolio Page](./Assets/Images/README_03.png)
     ```
 
 
@@ -30,11 +30,11 @@ In order to Navigate through the works I have listed, feel free to click any of 
 
 
     ```md
-    ![Prework-Study-Guide](assets/Images/README_01.png)
+    ![Prework-Study-Guide](./Assets/Images/README_01.png)
     ```
     
     ```md
-    ![Code-Refactoring](assets/Images/README_02.png)
+    ![Code-Refactoring](./Assets/Images/README_02.png)
     ```
 
 ## License
