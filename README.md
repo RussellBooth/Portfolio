@@ -8,9 +8,9 @@ This project is ongoing in development and is a working portfolio as I work thro
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo_name, twitter_handle, linkedin_username, email_client, email, project_title, project_description
 
 
-    ```md
+  
     ![ScreenShot of Main Portfolio Page](./Assets/Images/README_03.png)
-    ```
+ 
 
 
 ## Built With
@@ -29,13 +29,13 @@ The Usage of this project is for any prospective employer to track the skills I 
 In order to Navigate through the works I have listed, feel free to click any of the sections under Work section and it will navigate you to the appropriate page wherein to view my past projects.
 
 
-    ```md
+ 
     ![Prework-Study-Guide](./Assets/Images/README_01.png)
-    ```
+
     
-    ```md
+
     ![Code-Refactoring](./Assets/Images/README_02.png)
-    ```
+
 
 ## License
 
