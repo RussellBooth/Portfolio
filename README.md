@@ -5,9 +5,9 @@ This project is ongoing in development and is a working portfolio as I work thro
 
 ## Russel Booth's working Portfolio
 
-  
-    ![ScreenShot of Main Portfolio Page](./Assets/CSS/Images/README_03.png)
- 
+
+   ![ScreenShot of Main Portfolio Page](./Assets/CSS/Images/README_03.png)
+
 
 
 ## Built With
@@ -26,12 +26,12 @@ The Usage of this project is for any prospective employer to track the skills I 
 In order to Navigate through the works I have listed, feel free to click any of the sections under Work section and it will navigate you to the appropriate page wherein to view my past projects.
 
 
- 
-    ![Prework-Study-Guide](./Assets/CSS/Images/README_01.png)
+
+  ![Prework-Study-Guide](./Assets/CSS/Images/README_01.png)
 
     
 
-    ![Code-Refactoring](./Assets/CSS/Images/README_02.png)
+  ![Code-Refactoring](./Assets/CSS/Images/README_02.png)
 
 
 ## License
